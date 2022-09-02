@@ -1,2 +1,3 @@
 #!/bin/bash
-pho-vzfu-
+telnet towel.blinkenlights.nl
+
